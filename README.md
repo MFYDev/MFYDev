@@ -29,7 +29,7 @@ Hi there, I'm **Fanyang Meng**, a **student** and a **Research Intern** 🚀 fro
 - 👨🏽‍💻 I’m currently an Artificial Intelligence intern in [THUIAR](https://thuiar.mfy.world/) working on NLP projects;
 - 🌱 I’m currently learning Deep Active Learning and Full Stack Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Active Learning, etc..;
-- 💼 I’m preparing to apply for postgraduate students of Nanyang Technological University;
+- 💼 I’m preparing to apply for postgraduate student of Nanyang Technological University;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via study@mfy.email to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
