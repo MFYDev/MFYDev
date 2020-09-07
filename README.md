@@ -22,7 +22,7 @@
 
 Hi there, I'm **Fanyang Meng**, a **student** and a **Research Intern** 🚀 from Tsinghua University, currently, I'm a Research Team Member 🙍🏽‍♂️ of [@THUIAR](https://github.com/thuiar) and an Artificial Intelligence intern 👨🏽‍💼. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
