@@ -27,7 +27,7 @@ Hi there, I'm **Fanyang Meng**, a **student** and a **research intern** 🚀 fro
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Artificial Intelligence intern in [THUIAR](https://thuiar.github.io/) working on NLP projects;
-- 🌱 I’m currently learning Deep Active Learning and Full Stack Development; 
+- 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Active Learning, etc..;
 - 💼 I’m preparing to apply for the postgraduate student of Nanyang Technological University;
 - 💬 Ask me about anything, I am happy to help;
