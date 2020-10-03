@@ -6,10 +6,6 @@
 <a href="https://www.linkedin.com/in/fanyangmeng/">
   <img align="left" alt="FanyangMeng's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/fanyangmeng">
-  <img align="left" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
-</a>
-
 <a href="https://www.instagram.com/fanyangmeng9851/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
