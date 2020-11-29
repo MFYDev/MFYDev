@@ -25,7 +25,7 @@ Hi there, I'm **Fanyang Meng**, a **student** and a **research intern** 🚀 fro
 - 👨🏽‍💻 I’m currently an Artificial Intelligence intern in [@THUIAR](https://thuiar.github.io/) working on NLP projects;
 - 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Active Learning, etc..;
-- 💼 I’m preparing to apply for the postgraduate student of Nanyang Technological University;
+- 💼 I’m applying some master programmes in the US & UK & SG;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via study@mfy.email to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
