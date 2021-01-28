@@ -27,7 +27,7 @@ Hi there, I'm **Fanyang Meng**, a **student** and a **research intern** 🚀 fro
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Active Learning, etc..;
 - 💼 I’m applying some master programmes in the US & UK & SG;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via [im@mfy.dev](mailto:im@mfy.dev) to reach me.
+- 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
 
 
