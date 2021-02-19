@@ -16,15 +16,14 @@
 <br />
 <br />
 
-Hi there, I'm **Fanyang Meng**, a **student** and a **research intern** 🚀 from Tsinghua University. Currently, I'm a research team member 🙍🏽‍♂️ of [@THUIAR](https://github.com/thuiar) and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Fanyang Meng**.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=350 />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern in [@THUIAR](https://thuiar.github.io/) working on NLP projects;
 - 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Active Learning, etc..;
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer Vision, Full Stack Development, etc..;
 - 💼 I’m applying some master programmes in the US & UK & SG;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
