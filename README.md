@@ -24,7 +24,7 @@ Hi there, I'm **Fanyang Meng**.
 
 - 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer Vision, Full Stack Development, etc..;
-- 💼 I’m applying some master programmes in the US & UK & SG;
+- 💼 I’m applying some master programmes in US & UK & SG, maybe I will go to University of Rochester to persue my master programme of Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
