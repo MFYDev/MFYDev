@@ -15,6 +15,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=350 />
 
+<br>
+
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
