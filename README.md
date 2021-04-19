@@ -35,7 +35,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-### **I like running:**
+### **I Like Running:**
 
 [![running-records](https://raw.githubusercontent.com/MFYDev/MFYDev/master/running-20210419.svg)](https://mfydev.run)
 
