@@ -29,6 +29,10 @@ Hi there, I'm **Fanyang Meng**.
 - 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
 
+**I like running:**
+
+[![running-records](https://raw.githubusercontent.com/MFYDev/MFYDev/master/running-20210419.svg)](https://mfydev.run)
+
 
 **Languages and Tools:**  
 
