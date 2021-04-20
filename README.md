@@ -37,6 +37,6 @@
 
 ### **I Like Running:**
 
-[![running-records](https://raw.githubusercontent.com/MFYDev/MFYDev/master/running-20210419.svg)](https://mfydev.run)
+[![running-records](https://raw.githubusercontent.com/MFYDev/MFYDev/master/running.png)](https://mfydev.run)
 
 ⭐️ From [MFYDev](https://github.com/MFYDev)
