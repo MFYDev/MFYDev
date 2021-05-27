@@ -37,6 +37,6 @@
 
 ### **I Like Running:**
 
-![running-records](https://api.mfy.world/test/github.svg)
+![running-records](https://mfydev.run/static/github.svg)
 
 ⭐️ From [MFYDev](https://github.com/MFYDev)
