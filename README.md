@@ -26,8 +26,8 @@
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer Vision, Full Stack Development, etc..;
 - 💼 I will go to University of Rochester in August, 2021 to persue my master degree of Computer Science **with 50% scholarship**;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
-- 📝 See my [Blog](https://mfy.world) to get more info.
+- 📫 Please contact me via [email](mailto:i@mfy.dev) if you need. (Spam/Abuse will be permantly blocked)
+- 📝 View my [Blog](https://mfy.world) to get more info.
 
 ### **Languages and Tools:**  
 
