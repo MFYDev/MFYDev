@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/fanyangmeng/">
   <img align="left" alt="FanyangMeng's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.twitter.com/FanyangMeng/">
+  <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://www.instagram.com/fanyangmeng9851/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
