@@ -9,10 +9,10 @@
 <a href="https://www.twitter.com/FanyangMeng/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/fanyangmeng9851/">
+<a href="https://www.instagram.com/mfydev/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/FanyangMeng9851/">
+<a href="https://www.facebook.com/mfydev/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer Vision, Full Stack Development, etc..;
-- 💼 I’m applying some master programmes in US & UK & SG, maybe I will go to University of Rochester or University of Manchester to persue master of Computer Science degree **with 50% scholarship** (Undecided yet);
+- 💼 I will go to University of Rochester in August, 2021 to persue my master degree of Computer Science **with 50% scholarship**;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via [i@mfy.dev](mailto:i@mfy.dev) to reach me.
 - 📝 See my [Blog](https://mfy.world) to get more info.
