@@ -1,13 +1,7 @@
 ## Hey 👋, I'm Fanyang Meng
 
-<a href="https://mfy.world/">
-  <img align="left" alt="FanyangMeng's Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />
-</a>
 <a href="https://www.linkedin.com/in/fanyangmeng/">
   <img align="left" alt="FanyangMeng's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.twitter.com/FanyangMeng/">
-  <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/mfydev/">
   <img align="left" alt="FanyangMeng's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
