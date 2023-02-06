@@ -13,12 +13,11 @@
 
 ### **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Multimodal Sentiment Analysis and Full Stack Development; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer Vision, Full Stack Development, etc..;
-- 💼 Currently I am a master student in the Computer Science Department at Univeristy of Rochester **with 50% scholarship**;
+- 💼 I’m currently working at Odoo Inc., USA as a full stack engineer; 
+- 🤔 My interests are Full Stack Development, Video Gaming, Working Out etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please contact me via [email](mailto:i@mfy.dev) if you need. (Spam/Abuse will be permantly blocked)
-- 📝 View my [Blog](https://mfy.world) to get more info.
+- 📝 View my [link website](https://mfydev.link) to get more info.
 
 ### **Languages and Tools:**  
 
