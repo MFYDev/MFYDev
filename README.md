@@ -1,26 +1,20 @@
 ## Hey 👋, I'm Fanyang Meng
 
-<a href="https://gitroll.io/profile/uhkqlWv3FHVReq3CYlNAKFb7O6jB3" target="_blank">
-  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uhkqlWv3FHVReq3CYlNAKFb7O6jB3?theme=dark" height="400em" alt="GitRoll Profile Badge"/>
-</a>
-
 My name is Fanyang Meng, a software engineer at Odoo Inc., specialized in full stack development and AI and ML.
 
 ### About Me
 
 - 💻 My interests lie within the field of Infrastructure, RAG, LLM and Machine Learning 
 - 🎶 Outside my academic and professional pursuits, I am passionate about boxing and gaming. I was on the Brawl Stars United States Leaderboard!
-- 🎞️ I am also a professional photographer, you are welcome to visit my instagram.
+- 🎞️ I am also a professional photographer, you are welcome to visit my [instagram](https://instagram.com/mfydev).
 
 If you like what I developed, maybe consider buying me a coffee/tea 👉👈
 
 ## Github Stats
-
 <p align="center">
-  <a href="https://github.com/MFYDev">
-    <img align="center"
-         src="https://streak-stats.demolab.com?user=MFYDev&theme=2077&hide_border=false&border_radius=10" />
-  </a>
+<a href="https://gitroll.io/profile/uhkqlWv3FHVReq3CYlNAKFb7O6jB3" target="_blank">
+  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uhkqlWv3FHVReq3CYlNAKFb7O6jB3?theme=dark" height="400em" alt="GitRoll Profile Badge"/>
+</a>
 </p>
 
 <p align="center">
