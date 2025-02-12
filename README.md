@@ -13,7 +13,7 @@ If you like what I developed, maybe consider [buying me a coffee/tea 👉👈](h
 ## Github Stats
 <p align="center">
 <a href="https://gitroll.io/profile/uhkqlWv3FHVReq3CYlNAKFb7O6jB3" target="_blank">
-  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uhkqlWv3FHVReq3CYlNAKFb7O6jB3?theme=dark" height="400em" alt="GitRoll Profile Badge"/>
+  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uhkqlWv3FHVReq3CYlNAKFb7O6jB3?theme=dark" alt="GitRoll Profile Badge"/>
 </a>
 </p>
 
