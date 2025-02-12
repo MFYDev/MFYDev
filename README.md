@@ -8,7 +8,7 @@ My name is Fanyang Meng, a software engineer at Odoo Inc., specialized in full s
 - 🎶 Outside my academic and professional pursuits, I am passionate about boxing and gaming. I was on the Brawl Stars United States Leaderboard!
 - 🎞️ I am also a professional photographer, you are welcome to visit my [instagram](https://instagram.com/mfydev).
 
-If you like what I developed, maybe consider buying me a coffee/tea 👉👈
+If you like what I developed, maybe consider [buying me a coffee/tea 👉👈](https://ko-fi.com/fanyangmeng)
 
 ## Github Stats
 <p align="center">
@@ -32,12 +32,3 @@ If you like what I developed, maybe consider buying me a coffee/tea 👉👈
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFYDev&theme=2077" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/makmdvra/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ko-fi.com/fanyangmeng" target="_blank">
-    <img src="https://img.shields.io/badge/-Donate-%230077B5?style=for-the-badge&logo=donat&logoColor=Black" alt="Donate"/>
-  </a>
-</div>
