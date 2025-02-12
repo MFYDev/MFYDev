@@ -19,17 +19,6 @@ If you like what I developed, maybe consider buying me a coffee/tea 👉👈
 
 <p align="center">
   <a href="https://github.com/MFYDev">
-    <img align="center"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MFYDev&theme=2077" />
-  </a>
-  <a href="https://github.com/MFYDev">
-    <img align="center"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MFYDev&theme=2077" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MFYDev">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MFYDev&theme=2077" />
   </a>
   <a href="https://github.com/MFYDev">
