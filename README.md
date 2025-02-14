@@ -19,16 +19,16 @@ If you like what I developed, maybe consider [buying me a coffee/tea 👉👈](h
 
 <p align="center">
   <a href="https://github.com/MFYDev">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MFYDev&theme=2077" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MFYDev&theme=algolia" />
   </a>
   <a href="https://github.com/MFYDev">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MFYDev&theme=2077&utcOffset=-5" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MFYDev&theme=algolia&utcOffset=-5" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MFYDev">
     <img align="center"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFYDev&theme=2077" />
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFYDev&theme=algolia" />
   </a>
 </p>
