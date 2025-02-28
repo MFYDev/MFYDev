@@ -20,7 +20,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blog
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Supercharging Your Ghost Blog with Meilisearch: A Powerful Search Integration](https://fanyangmeng.blog/ghost-meilisearch-integration/)
