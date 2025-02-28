@@ -22,7 +22,8 @@ me.say_hi()
 
 ## 📝 Blog
 
-- Personal website and blog: https://fanyangmeng.blog/
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
 
