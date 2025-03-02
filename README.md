@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s Accelerating Evolution: Reflections on Progress, Power, and Responsibility](https://fanyangmeng.blog/reflections-on-ais-fast-evolution/)
 - [Supercharging Your Ghost Blog with Meilisearch: A Powerful Search Integration](https://fanyangmeng.blog/ghost-meilisearch-integration/)
 - [Building a Secure Contact Form: From Third-Party Services to Custom Implementation](https://fanyangmeng.blog/building-a-secure-contact-form/)
 - [101. Symmetric Tree](https://fanyangmeng.blog/symmetric-tree/)
 - [226. Invert Binary Tree](https://fanyangmeng.blog/invert-binary-tree/)
-- [102. Binary Tree Level Order Traversal](https://fanyangmeng.blog/binary-tree-level-order-traversal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
