@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevating Ghost CMS Search: New Features in Ghost-Meilisearch 0.5.0](https://fanyangmeng.blog/elevating-ghost-cms-search-new-features-in-ghost-meilisearch-0-5-0/)
 - [New in ghost-meilisearch: Deploy Your Webhook with Cloudflare Workers](https://fanyangmeng.blog/ghost-meilisearch-cloudflare-worker/)
 - [AI&#39;s Accelerating Evolution: Reflections on Progress, Power, and Responsibility](https://fanyangmeng.blog/reflections-on-ais-fast-evolution/)
 - [Supercharging Your Ghost Blog with Meilisearch: A Powerful Search Integration](https://fanyangmeng.blog/ghost-meilisearch-integration/)
 - [Building a Secure Contact Form: From Third-Party Services to Custom Implementation](https://fanyangmeng.blog/building-a-secure-contact-form/)
-- [101. Symmetric Tree](https://fanyangmeng.blog/symmetric-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
