@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test member only](https://fanyangmeng.blog/test-member-only/)
 - [104. Maximum Depth of Binary Tree](https://fanyangmeng.blog/maximum-depth-of-binary-tree/)
 - [Introducing AI-Powered Semantic Search with Meilisearch for Ghost CMS](https://fanyangmeng.blog/ghost-meilisearch-ai-search/)
 - [Elevating Ghost CMS Search: New Features in Ghost-Meilisearch 0.5.0](https://fanyangmeng.blog/elevating-ghost-cms-search-new-features-in-ghost-meilisearch-0-5-0/)
 - [New in ghost-meilisearch: Deploy Your Webhook with Cloudflare Workers](https://fanyangmeng.blog/ghost-meilisearch-cloudflare-worker/)
-- [AI&#39;s Accelerating Evolution: Reflections on Progress, Power, and Responsibility](https://fanyangmeng.blog/reflections-on-ais-fast-evolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
