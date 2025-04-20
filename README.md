@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Python to TypeScript: Improving Ghost MCP Server](https://fanyangmeng.blog/from-python-to-typescript-improving-ghost-mcp-server/)
 - [Ghost-Meilisearch v1.2.2: Major Upgrade for Premium Content Support](https://fanyangmeng.blog/ghost-meilisearch-premium-content-support/)
 - [104. Maximum Depth of Binary Tree](https://fanyangmeng.blog/maximum-depth-of-binary-tree/)
 - [Introducing AI-Powered Semantic Search with Meilisearch for Ghost CMS](https://fanyangmeng.blog/ghost-meilisearch-ai-search/)
 - [Elevating Ghost CMS Search: New Features in Ghost-Meilisearch 0.5.0](https://fanyangmeng.blog/elevating-ghost-cms-search-new-features-in-ghost-meilisearch-0-5-0/)
-- [New in ghost-meilisearch: Deploy Your Webhook with Cloudflare Workers](https://fanyangmeng.blog/ghost-meilisearch-cloudflare-worker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
