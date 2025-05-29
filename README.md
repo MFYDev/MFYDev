@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Recommendation Systems: Bayesian Personalized Ranking &lpar;BPR&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-bpr/)
 - [Learning Recommendation Systems: SLi_Rec](https://fanyangmeng.blog/learning-recommendation-systems-sli_rec/)
 - [Learning Recommendation Systems: Alternating Least Squares &lpar;ALS&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-als/)
 - [Automate Ghost CDN Cache Purging with BunnyCDN Middleware Scripts](https://fanyangmeng.blog/ghost-bunnycdn-cache-purging-middleware-scripts/)
 - [111. Minimum Depth of Binary Tree](https://fanyangmeng.blog/111-minimum-depth-of-binary-tree/)
-- [From Python to TypeScript: Improving Ghost MCP Server](https://fanyangmeng.blog/from-python-to-typescript-improving-ghost-mcp-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
