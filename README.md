@@ -27,7 +27,7 @@ me.say_hi()
 - [Learning Recommendation Systems: Bayesian Personalized Ranking &lpar;BPR&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-bpr/)
 - [Learning Recommendation Systems: SLi_Rec](https://fanyangmeng.blog/learning-recommendation-systems-sli_rec/)
 - [Learning Recommendation Systems: Alternating Least Squares &lpar;ALS&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-als/)
-- [Automate Ghost CDN Cache Purging with BunnyCDN Middleware Scripts](https://fanyangmeng.blog/ghost-bunnycdn-cache-purging-middleware-scripts/)
+- [Learning Recommendation Systems: Collaborative Filtering](https://fanyangmeng.blog/learning-recommendation-systems-collaborative-filtering/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
