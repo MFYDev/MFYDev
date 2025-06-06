@@ -27,7 +27,7 @@ me.say_hi()
 - [Learning Recommendation Systems: Bayesian Personalized Ranking &lpar;BPR&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-bpr/)
 - [Learning Recommendation Systems: SLi_Rec](https://fanyangmeng.blog/learning-recommendation-systems-sli_rec/)
 - [Learning Recommendation Systems: Alternating Least Squares &lpar;ALS&rpar;](https://fanyangmeng.blog/learning-recommendation-systems-als/)
-- [Content-Based Recommendation Systems: When Items Speak for Themselves](https://fanyangmeng.blog/content-based-recommendation-systems/)
+- [Knowledge-Based Recommendation Systems: A Comprehensive Guide](https://fanyangmeng.blog/knowledge-based-recommendation-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
