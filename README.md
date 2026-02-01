@@ -23,11 +23,11 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Recommender System Evaluation &lpar;Part 3&rpar;: Real-World Deployment - When Rubber Meets the Road](https://fanyangmeng.blog/recommender-system-evaluation-part-3/)
-- [Recommender System Evaluation &lpar;Part 2&rpar;: Beyond Accuracy - The User Experience Dimension](https://fanyangmeng.blog/recommender-system-evaluation-part-2/)
-- [Recommender System Evaluation &lpar;Part 1&rpar;: The Foundation - Accuracy and Ranking Metrics](https://fanyangmeng.blog/recommender-system-evaluation-part-1/)
-- [Hybrid Recommendation Systems: When One Algorithm Isn&#39;t Enough](https://fanyangmeng.blog/hybrid-recommendation-systems/)
-- [Knowledge-Based Recommendation Systems: A Comprehensive Guide](https://fanyangmeng.blog/knowledge-based-recommendation-systems/)
+- [Automate Ghost CDN Cache Purging with BunnyCDN Middleware Scripts](https://fanyangmeng.blog/ghost-bunnycdn-cache-purging-middleware-scripts/)
+- [111. Minimum Depth of Binary Tree](https://fanyangmeng.blog/111-minimum-depth-of-binary-tree/)
+- [From Python to TypeScript: Improving Ghost MCP Server](https://fanyangmeng.blog/from-python-to-typescript-improving-ghost-mcp-server/)
+- [Ghost-Meilisearch v1.2.2: Major Upgrade for Premium Content Support](https://fanyangmeng.blog/ghost-meilisearch-premium-content-support/)
+- [104. Maximum Depth of Binary Tree](https://fanyangmeng.blog/maximum-depth-of-binary-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
